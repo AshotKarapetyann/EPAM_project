@@ -1,7 +1,7 @@
 {
-  "name": "trello_skeleton",
+  "name": "trello_app",
   "version": "1.0.0",
-  "description": "Skeleton of Trello",
+  "description": "Trello application",
   "main": "src/server.ts",
   "scripts": {
     "dev": "ts-node --transpile-only src/server.ts",
